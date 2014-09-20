@@ -7,5 +7,5 @@ public class VFile {
 	private VFileType type;
 	
 	private String permission; // read/write/execute **Lower Priority**
-	private Vfolder parent;
+	private VFolder parent;
 }
