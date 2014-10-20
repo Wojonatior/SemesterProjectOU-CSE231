@@ -28,7 +28,6 @@ public class ArraySortedList<T> extends ArrayUnsortedList<T>
   {
     super(origCap);
   }
-
   public void add(T element)
   // Precondition:  element is Comparable.
   //  
